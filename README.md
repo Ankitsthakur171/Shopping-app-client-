@@ -1,16 +1,5 @@
 # project_client
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project shows the application made as a client side application which has its major focus on ecommerce and social-ecom.
+This project is efficient to manuver around and simple to understand, along with its admin panael where user can add products that will be displayed on the Clent Econ platform.
+This is a complete Ecom platform for anyone who want to use a totally independent application for his/her needs. Without relying on any third-party application.
